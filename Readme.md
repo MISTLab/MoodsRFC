@@ -4,7 +4,8 @@ This repository contains the python files to build, train and predict the 27 dat
 ## Requirements
 To run this code on Windows:
 1. Install Python 3.6 via Anaconda (https://www.anaconda.com/download/)
-2. With the anaconda prompt, install the dependent libraries for Python (scikit-learn, numpy and scipy): 
+2. With the anaconda prompt, install the dependent libraries for Python (scikit-learn, numpy and scipy):
+
 ``conda install scikit-learn``
 
 ## Python script
@@ -16,4 +17,4 @@ To run this code on Windows:
 ## Citation
 If you use the code or the dataset please cite this work with:
 
-> St-Onge, D., Côté-Allard, U., Glette, K., Gosselin, B. and Beltrame, G. "Engaging Swarms: Expressive motion from Moods". [submitted to] Transaction on Human-Robot Interactions. 2018.
+> St-Onge, D., Côté-Allard, U., Glette, K., Gosselin, B. and Beltrame, G. "Engaging Swarms: Expressive motion from Moods". [submitted to] Transactions on Human-Robot Interactions. 2018.
