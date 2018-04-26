@@ -3,7 +3,14 @@ from os import listdir
 from Example_RF_classifier import load_data
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.metrics import accuracy_score, confusion_matrix
-
+__author__ = "Ulysse Cote-Allard<ulysse.cote-allard.1@ulaval.ca> and David St-Onge<david.st-onge@polymtl.ca>"
+__copyright__ = "Copyright 2007, MIST Lab"
+__credits__ = ["David St-Onge", "Ulysse Cote-Allard", "Kyrre Glette", "Benoit Gosselin", "Giovanni Beltrame"]
+__license__ = "MIT"
+__version__ = "1.0"
+__maintainer__ = "David St-Onge"
+__email__ = "david.st-onge@polymtl.ca"
+__status__ = "Production"
 
 if __name__ == '__main__':
     """

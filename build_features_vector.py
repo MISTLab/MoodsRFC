@@ -1,6 +1,13 @@
 import numpy as np
 from Example_RF_classifier import extract_features
-
+__author__ = "Ulysse Cote-Allard<ulysse.cote-allard.1@ulaval.ca> and David St-Onge<david.st-onge@polymtl.ca>"
+__copyright__ = "Copyright 2007, MIST Lab"
+__credits__ = ["David St-Onge", "Ulysse Cote-Allard", "Kyrre Glette", "Benoit Gosselin", "Giovanni Beltrame"]
+__license__ = "MIT"
+__version__ = "1.0"
+__maintainer__ = "David St-Onge"
+__email__ = "david.st-onge@polymtl.ca"
+__status__ = "Production"
 
 def build_features_vector(list_example_emg, list_example_imu_1, list_example_imu_2):
     """

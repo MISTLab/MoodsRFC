@@ -1,9 +1,15 @@
 import numpy as np
 from Example_RF_classifier import build_features_vector
 import pickle
-
 from sklearn.metrics import accuracy_score
-
+__author__ = "Ulysse Cote-Allard<ulysse.cote-allard.1@ulaval.ca> and David St-Onge<david.st-onge@polymtl.ca>"
+__copyright__ = "Copyright 2007, MIST Lab"
+__credits__ = ["David St-Onge", "Ulysse Cote-Allard", "Kyrre Glette", "Benoit Gosselin", "Giovanni Beltrame"]
+__license__ = "MIT"
+__version__ = "1.0"
+__maintainer__ = "David St-Onge"
+__email__ = "david.st-onge@polymtl.ca"
+__status__ = "Production"
 
 class DataLoader(object):
     """
