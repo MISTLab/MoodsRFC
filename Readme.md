@@ -4,8 +4,8 @@ This repository contains the python files to build, train and predict the 27 dat
 ## Requirements
 To run this code in windos:
 1. Install Python 3.6 via Anaconda (https://www.anaconda.com/download/)
-2. With the anaconda prompt, install the dependent libraries for Python (scikit-learn, numpy, scipy and PyWavelets): 
-``conda install PyWavelets scikit-learn``
+2. With the anaconda prompt, install the dependent libraries for Python (scikit-learn, numpy and scipy): 
+``conda install scikit-learn``
 
 ## Python script
 1. The main file is "classifyRF.py" which will build the datasets, train and classify each performance for each participants.
