@@ -17,4 +17,4 @@ To run this code on Windows:
 ## Citation
 If you use the code or the dataset please cite this work with:
 
-> St-Onge, D., Côté-Allard, U., Glette, K., Gosselin, B. and Beltrame, G. "Engaging Swarms: Expressive motion from Moods". [submitted to] Transactions on Human-Robot Interactions. 2018.
+> St-Onge, David, Côté-Allard, Ulysse, Glette, Kyrre, Gosselin, Benoit et Beltrame, Giovanni. 2019. « Engaging with robotic swarms: commands from expressive motion ». ACM Transactions on Human-Robot Interaction (THRI), vol. 8, nº 2.
